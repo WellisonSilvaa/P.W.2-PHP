@@ -1,0 +1,18 @@
+
+li{
+    padding: 10px;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:hover{
+    color: red;
+}
+button {
+    color: black;
+    text-decoration: none;
+}
